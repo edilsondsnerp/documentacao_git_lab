@@ -25,3 +25,20 @@ git pull
 git checkout minha_feature
 git merge develop
 ````
+
+### Finalizar a tarefa 
+Caso ainda não tenha adicionado os arquivos novos e estiver executando em linha de comando (sem o Tortoise Git), execute u
+````
+git add commit -m ":emoji: <TAREFA> Mensagem"
+````
+
+🔥 :fire: - Para quando removemos código ou arquivos inteiros
+
+🐛 :bug: - Para quando nosso commit corre um bug
+
+✨ :sparkles: - Para quando nosso commit adiciona uma nova funcionalidade
+
+````
+git flow publish
+````
+
