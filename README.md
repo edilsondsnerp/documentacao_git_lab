@@ -41,4 +41,6 @@ git add commit -m ":emoji: <TAREFA> Mensagem"
 ````
 git flow publish
 ````
+Vá ao Gitlab para realizar o merge request
+[Wise](http://git-sqa.alterdata.matriz/bimer/web/on-premises/v1/wisepcp)
 
