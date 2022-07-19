@@ -9,6 +9,7 @@ cd wpcp_9138
 git flow init
 
 git checkout develop
+git pull
 git branch
 
 git flow feature start WPCP-9138
