@@ -6,9 +6,11 @@
 ````
 git clone http://172.16.101.7/bimer/web/on-premises/v1/wisepcp.git wpcp_9138
 cd wpcp_9138
+git flow init
+
 git checkout develop
 git branch
-git flow init
+
 git flow feature start WPCP-9138
 git branch
 git pull
