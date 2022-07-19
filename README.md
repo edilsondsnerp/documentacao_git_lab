@@ -32,9 +32,9 @@ Caso ainda não tenha adicionado os arquivos novos e estiver executando em linha
 git add commit -m ":emoji: <TAREFA> Mensagem"
 ````
 
-🔥 ':fire:' - Para quando removemos código ou arquivos inteiros
-🐛 ':bug:' - Para quando nosso commit corre um bug
-✨ ':sparkles:' - Para quando nosso commit adiciona uma nova funcionalidade
+🔥 ': fire :' - Para quando removemos código ou arquivos inteiros
+🐛 ': bug :' - Para quando nosso commit corre um bug
+✨ ': sparkles :' - Para quando nosso commit adiciona uma nova funcionalidade
 
 ````
 git flow publish
