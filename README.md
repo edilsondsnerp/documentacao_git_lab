@@ -32,6 +32,14 @@ Caso ainda não tenha adicionado os arquivos novos e estiver executando em linha
 git add commit -m ":emoji: <TAREFA> Mensagem"
 ````
 
+### Atualizar um branch com o conteúdo atualizado no develop
+git checkout develop
+git pull
+git checkout feature/WPCP-9138  
+git merge develop
+
+
+
 🔥 ': fire :' - Para quando removemos código ou arquivos inteiros
 
 🐛 ': bug :' - Para quando nosso commit corre um bug
