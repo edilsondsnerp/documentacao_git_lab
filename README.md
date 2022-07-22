@@ -18,7 +18,7 @@ git pull
 ````
 
 
-### Atualizar o branch develop e fazer um merge para o branch da tareda
+### Atualizar o branch develop e fazer um merge para o branch da tarefa
 ````
 git checkout develop
 git pull
@@ -31,12 +31,6 @@ Caso ainda não tenha adicionado os arquivos novos e estiver executando em linha
 ````
 git add commit -m ":emoji: <TAREFA> Mensagem"
 ````
-
-### Atualizar um branch com o conteúdo atualizado no develop
-git checkout develop
-git pull
-git checkout feature/WPCP-9138  
-git merge develop
 
 
 
