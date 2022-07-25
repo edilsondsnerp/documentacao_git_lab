@@ -7,6 +7,7 @@ Este documnento foi criado com base no documento Git e Git Flow do Gitlab da Alt
 ### Clonar o repositório criando uma pasta com o nome da tarefa
 ````
 git clone http://172.16.101.7/bimer/web/on-premises/v1/wisepcp.git wpcp_9138
+````
 cd wpcp_9138
 git flow init
 
