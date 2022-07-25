@@ -29,7 +29,8 @@ git merge develop
 ### Finalizar a tarefa 
 Caso ainda não tenha adicionado os arquivos novos e estiver executando em linha de comando (sem o Tortoise Git), execute u
 ````
-git add commit -m ":emoji: <TAREFA> Mensagem"
+git add 
+git commit -m ":emoji: <TAREFA> Mensagem"
 ````
 
 
