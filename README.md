@@ -29,10 +29,10 @@ git merge develop
 ### Finalizar a tarefa 
 Caso ainda não tenha adicionado os arquivos novos e estiver executando em linha de comando (sem o Tortoise Git), execute u
 ````
-git add 
+git add . 
 git commit -m ":emoji: <TAREFA> Mensagem"
 ````
-
+O git add . é um coringa que adiciona todos os arquivos ainda não versionados. Se você quiser adicionar algum ou alguns arquivos específicos, use o nome do arquivo ou * na composição do nome. Ex: 'git add teste.txt', 'git add *.txt'.
 
 
 🔥 ': fire :' - Para quando removemos código ou arquivos inteiros
