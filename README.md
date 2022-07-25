@@ -1,6 +1,8 @@
 
 ## Comandos usuais no Git Flow
 
+Este documnento foi criado com base no documento Git e Git Flow do Gitlab da Alterdata. Aque pode ser visualizado [aqui.](http://git-sqa.alterdata.matriz/bimer/docs/-/wikis/git-e-git-flow)
+
 
 ### Clonar o repositório criando uma pasta com o nome da tarefa
 ````
