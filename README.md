@@ -69,6 +69,7 @@ Lembrando que o branch para hotfix irá, excepcionalmente, atualizar diretamente
 
 #### Considerações: 
 A pasta para a qual será realizada o clone (último parâmetro do git clone) deverá ter, idealmente, o número do processo criado para a liberação do hotfix; 
+
 Deverá ter sido criada previamente no JIRA a versão especial, já que esse número será utilizado para criação do branch.
 
 ````
