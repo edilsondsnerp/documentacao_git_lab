@@ -104,14 +104,14 @@ git push
 git checkout main
 ````
 
+Em vias normais não deverá haver nada para subir
 ````
-git push #(Em vias normais não deverá haver nada para subir)
+git push 
 ````
 
 ````
 git push --tags
 git checkout develop
-
 ````
 
 
