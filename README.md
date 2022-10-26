@@ -115,7 +115,9 @@ git push --tags
 git checkout develop
 ````
 
-
+Neste momento o branch terá sido excluído. A develop e a main já terão recebido as alterações via merge. 
+A tag da versão foi criaaa.
+A versão especial poderá compilada. 
 
 
 
