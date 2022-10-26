@@ -90,7 +90,7 @@ git pull
 git flow hotfix start 1.X.45.X
 ````
 
-Neste momento o branch estará pronto para receber as alterações. Utilize normalmente git add, git commit e, ao final git flow publish.
+Neste momento o branch estará pronto para receber as alterações. Utilize normalmente git add, git commit e ao final git flow publish.
 
 Quando a alteração estiver pronta utilize o 'git flow finsih'
 ````
