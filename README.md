@@ -63,10 +63,11 @@ Vá ao Gitlab para realizar o merge request
 
 
 
+
 ### Criar um branch para Hotfix
 Lembrando que o branch para hotfix irá, excepcionalmente, atualizar diretamente a main e que ao utilziar o git flow, o superset 'git flow finish' para finalizar o branch fará automaticamente um merge para develop.
 
-## Considerações: 
+#### Considerações: 
 A pasta para a qual será realizada o clone (último parâmetro do git clone) deverá ter, idealmente, o número do processo criado para a liberação do hotfix; 
 Deverá ter sido criada previamente no JIRA a versão especial, já que esse número será utilizado para criação do branch.
 
